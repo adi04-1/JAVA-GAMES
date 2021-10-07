@@ -1,0 +1,1 @@
+DataOfSquare
